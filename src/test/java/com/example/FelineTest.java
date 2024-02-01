@@ -2,7 +2,6 @@ package com.example;
 
 import junit.framework.TestCase;
 import java.util.List;
-import static org.junit.Assert.assertEquals;
 
 public class FelineTest extends TestCase {
 
